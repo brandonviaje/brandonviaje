@@ -1,5 +1,5 @@
 <h1 align="center">Brandon Viaje</h1>
-<h3 align="center">boi its jus alcohol</h3>
+<h3 align="center">boi its jus committin</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonviaje" alt="brandonviaje" /></a> </p>
 
 - Pronouns: He/Him
