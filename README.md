@@ -2,9 +2,22 @@
 <h3 align="center">boi its jus committin</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brandonviaje" alt="brandonviaje" /></a> </p>
 
-- Pronouns: He/Him
-- 📫 How to reach me **viajebrandon@gmail.com**
+### About Me
 
+- **Name**: Brandon Viaje  
+- **Pronouns**: He/Him  
+- **Education**: Studying Computer Science, Minor in Math
+- **Skills**: Proficient in technologies like React, Spring Boot, PostgreSQL, Python, Pandas, Matplotlib, and more.  
+- **Current Focus**: Exploring deep learning, NLP, and machine learning algorithms for personal projects.  
+- **How to Reach Me**: **viajebrandon@gmail.com**
+
+### Interests
+- Artificial Intelligence
+- Data Science & Machine Learning
+- Full Stack Development
+- Natural Language Processing (NLP)
+- Software Engineering
+  
 <p align="left">
 </p>
 
