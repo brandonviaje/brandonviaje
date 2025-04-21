@@ -4,7 +4,6 @@
 
 ### About Me
 
-- **Name**: Brandon Viaje  
 - **Pronouns**: He/Him  
 - **Education**: Studying Computer Science, Minor in Math
 - **Skills**: Proficient in technologies like React, Spring Boot, PostgreSQL, Python, Pandas, Matplotlib, and more.  
