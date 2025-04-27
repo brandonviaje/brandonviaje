@@ -6,7 +6,7 @@
 
 - **Pronouns**: He/Him  
 - **Education**: Studying Computer Science, Minor in Math
-- **Skills**: Proficient in technologies like React, Spring Boot, PostgreSQL, Python, Pandas, Matplotlib, and more.  
+- **Skills**: Proficient in technologies like React, Spring Boot, PostgreSQL, Python, Pandas, Seaborn, and more.  
 - **Current Focus**: Exploring deep learning, NLP, and machine learning algorithms for personal projects.  
 - **How to Reach Me**: **viajebrandon@gmail.com**
 
