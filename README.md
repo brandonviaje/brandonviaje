@@ -6,16 +6,19 @@
 
 - **Pronouns**: He/Him  
 - **Education**: Studying Computer Science, Minor in Math
-- **Skills**: Proficient in technologies like React, Spring Boot, PostgreSQL, Python, Pandas, Seaborn, and more.  
+- **Skills**: Proficient in React, Spring Boot, Python, Pandas, NumPy, Seaborn, and more.  
 - **Current Focus**: Exploring deep learning, NLP, and machine learning algorithms for personal projects.  
 - **How to Reach Me**: **viajebrandon@gmail.com**
 
 ### Interests
 - Artificial Intelligence
-- Data Science & Machine Learning
-- Full Stack Development
+- Data Science 
+- Machine Learning
+- Full Stack Dev
 - Natural Language Processing (NLP)
+- Deep Learning
 - Software Engineering
+- QA Testing
   
 <p align="left">
 </p>
