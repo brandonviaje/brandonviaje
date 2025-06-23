@@ -11,9 +11,7 @@
 
 ### Interests
 - Artificial Intelligence
-- Data Science 
 - Machine Learning
-- Full Stack Dev
 - Natural Language Processing (NLP)
 - Deep Learning
 - Software Engineering
