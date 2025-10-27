@@ -12,10 +12,10 @@
 ### Interests
 - Artificial Intelligence
 - Machine Learning
-- Natural Language Processing (NLP)
 - Computer Vision
 - Deep Learning
 - Software Engineering
+- Systems Programming
 - QA Testing
   
 <p align="left">
