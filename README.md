@@ -11,7 +11,6 @@
 ### Interests
 - Artificial Intelligence
 - Machine Learning
-- Computer Vision
 - Deep Learning
 - Software Engineering
 - Systems Programming
