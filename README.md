@@ -9,9 +9,8 @@
 - **How to Reach Me**: **viajebrandon@gmail.com**
 
 ### Interests
-- Artificial Intelligence
 - Machine Learning
-- Deep Learning
+- Compilers
 - Software Engineering
 - Systems Programming
 - QA Testing
