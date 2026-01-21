@@ -2,8 +2,8 @@
 
 ### About Me
 
-- **Education**: Studying Computer Science, Minor in Math
-- **Skills**: Proficient in React, Spring Boot, Python, C++
+- **Education**: CS @ Ontario Tech
+- **Skills**: Proficient in React, Spring Boot, Python, Java, C++
 - **Current Focus**: Exploring deep learning, infrastructure, and machine learning algorithms for personal projects.  
 - **How to Reach Me**: **viajebrandon@gmail.com**
 
@@ -16,7 +16,6 @@
   
 <p align="left">
 </p>
-
 
 ![](https://nirzak-streak-stats.vercel.app/?user=brandonviaje&theme=tokyonight&hide_border=true)<br/>
 
