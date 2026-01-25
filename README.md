@@ -13,9 +13,8 @@
 - Software Engineering
 - Systems Programming
 - QA Testing
-  
-<p align="left">
-</p>
+
+![](https://github-readme-stats.vercel.app/api?username=brandonviaje&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=brandonviaje&theme=tokyonight&hide_border=true)<br/>
 
