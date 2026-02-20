@@ -17,8 +17,7 @@ skills
 │   └── software-engineering
 ├── languages
 │   ├── python
-│   ├── c/c++17
-│   └── java
+│   └── c/c++17
 └── systems
     ├── linux/unix
     ├── systems-programming
