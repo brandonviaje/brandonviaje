@@ -12,7 +12,7 @@ brandon
 brandon@dev:~$ tree skills
 skills
 ├── interests
-│   ├── machine-learning
+│   ├── machine-learning / ai
 │   ├── compilers
 │   └── software-engineering
 ├── languages
